@@ -1,4 +1,4 @@
-# studentRegistrationConsoleApp
+# Student Registration Console App
 
 This app allows users to store and retrieve student information in a text file. Randomly generated student details are saved in a file called 'ogrenciler.txt'.
 
