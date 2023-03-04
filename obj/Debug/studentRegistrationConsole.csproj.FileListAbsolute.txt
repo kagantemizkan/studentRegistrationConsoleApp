@@ -1,0 +1,8 @@
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\bin\Debug\odev_1.exe.config
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\bin\Debug\odev_1.exe
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\bin\Debug\odev_1.pdb
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\obj\Debug\studentRegistrationConsole.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\obj\Debug\studentRegistrationConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\obj\Debug\studentRegistrationConsole.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\obj\Debug\odev_1.exe
+C:\Users\musta\source\repos\studentRegistrationConsoleApp\studentRegistrationConsoleApp\obj\Debug\odev_1.pdb
